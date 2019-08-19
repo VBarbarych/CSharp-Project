@@ -1,0 +1,6 @@
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
