@@ -1,9 +1,0 @@
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\bin\Debug\Task2.dll
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\bin\Debug\Task2.pdb
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\bin\Debug\MyClassLibrary.dll
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\bin\Debug\MyClassLibrary.pdb
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\obj\Debug\Task2.csproj.CopyComplete
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\obj\Debug\Task2.dll
-C:\Users\Comp\Documents\Visual Studio 2017\Projects\EpamTraining\Task2\obj\Debug\Task2.pdb
