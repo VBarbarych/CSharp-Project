@@ -23,9 +23,9 @@ namespace Task2
             this.Y = y;
         }
 
-        public virtual void Draw()
+        public virtual string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
     }
 
@@ -36,9 +36,9 @@ namespace Task2
 
         }
 
-        public override void Draw()
+        public override string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
 
 
@@ -51,9 +51,9 @@ namespace Task2
 
         }
 
-        public override void Draw()
+        public override string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
 
 
@@ -74,11 +74,11 @@ namespace Task2
             Console.WriteLine("==========Task 2.3==========");
             Console.WriteLine();
             Figure3 figure = new Figure3(4, 7);
-            figure.Draw();
+            Console.WriteLine(figure.Draw());
             Square3 square = new Square3(3, 5);
-            square.Draw();
+            Console.WriteLine(square.Draw());
             Rectangle3 rectangle = new Rectangle3(4, 6);
-            rectangle.Draw();
+            Console.WriteLine(rectangle.Draw());
 
             Console.WriteLine();
         }

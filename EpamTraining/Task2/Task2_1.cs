@@ -10,7 +10,7 @@ namespace Task2
 {
     public abstract class Figure 
     {
-        public abstract void Draw();
+        public abstract string Draw();
     }
 
     public class Square : Figure
@@ -20,9 +20,9 @@ namespace Task2
 
         }
 
-        public override void Draw()
+        public override string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
 
         
@@ -30,9 +30,9 @@ namespace Task2
 
     public class Rectangle : Figure
     {
-        public override void Draw()
+        public override string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
 
         
@@ -53,9 +53,9 @@ namespace Task2
             Console.WriteLine("==========Task 2.1==========");
             Console.WriteLine();
             Square square = new Square();
-            square.Draw();
+            Console.WriteLine(square.Draw());
             Rectangle rectangle = new Rectangle();
-            rectangle.Draw();
+            Console.WriteLine(rectangle.Draw());
 
             Console.WriteLine();
         }

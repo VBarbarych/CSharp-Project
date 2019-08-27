@@ -37,13 +37,13 @@ namespace Task1
         }
 
 
-        private double Perimeter()
+        public double Perimeter()
         {
             return Width() * 2 + Length() * 2;
         }
 
 
-        private double Square()
+        public double Square()
         {
             return Width() * Length();
         }

@@ -9,7 +9,7 @@ namespace Task2
 {
     public interface IDrawable
     {
-        void Draw();
+        string Draw();
     }
 
     public class Figure4 : IDrawable
@@ -24,9 +24,9 @@ namespace Task2
             this.Y = y;
         }
 
-        public virtual void Draw()
+        public virtual string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
     }
 
@@ -37,9 +37,9 @@ namespace Task2
 
         }
 
-        public override void Draw()
+        public override string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
 
 
@@ -52,9 +52,9 @@ namespace Task2
 
         }
 
-        public override void Draw()
+        public override string Draw()
         {
-            Console.WriteLine(GetType().Name);
+            return GetType().Name;
         }
 
 
@@ -76,7 +76,7 @@ namespace Task2
         {
             foreach (var element in array)
             {
-                element.Draw();
+                Console.WriteLine(element.Draw());
             }
 
         }

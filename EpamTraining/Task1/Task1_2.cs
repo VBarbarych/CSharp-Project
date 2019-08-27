@@ -36,7 +36,7 @@ namespace Task1
         }
 
 
-        private double Perimeter
+        public double Perimeter
         {
             get
             {
@@ -46,7 +46,7 @@ namespace Task1
         }
 
 
-        private double Square
+        public double Square
         {
             get
             {

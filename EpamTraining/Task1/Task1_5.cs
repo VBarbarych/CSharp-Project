@@ -10,8 +10,8 @@ namespace Task1
     public class Task1_5 : IRunable
     {
 
-        private double Real { get; set; }
-        private double Imaginary { get; set; }
+        public double Real { get; set; }
+        public double Imaginary { get; set; }
 
         #region Constructor
         public Task1_5()
