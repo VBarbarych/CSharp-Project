@@ -16,11 +16,5 @@ namespace MyClassLibrary.CLasses
             this.X = x;
             this.Y = y;
         }
-
-
-        //public static double Distanse_Points(Point x1, Point y1)
-        //{
-        //    return Math.Sqrt((x1.X - y1.X) * (x1.X - y1.X) + (x1.Y - y1.Y) * (x1.Y - y1.Y));
-        //}
     }
 }
