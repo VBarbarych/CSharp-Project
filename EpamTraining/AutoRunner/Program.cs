@@ -15,10 +15,10 @@ namespace AutoRunner
         static void Main(string[] args)
         {
             List<IRunable> tasks = new List<IRunable>();
-            //tasks.Add(new Task1_1());
-            //tasks.Add(new Task1_2());
-            //tasks.Add(new Task1_3());
-            //tasks.Add(new Task1_5());
+            tasks.Add(new Task1_1());
+            tasks.Add(new Task1_2());
+            tasks.Add(new Task1_3());
+            tasks.Add(new Task1_5());
             tasks.Add(new Task2_1());
             tasks.Add(new Task2_2());
             tasks.Add(new Task2_3());

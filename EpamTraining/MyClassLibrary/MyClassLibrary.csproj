@@ -40,7 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="CLasses\Person.cs" />
     <Compile Include="CLasses\Point.cs" />
     <Compile Include="Interfaces\IRunable.cs" />
